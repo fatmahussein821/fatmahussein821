@@ -1,5 +1,4 @@
 # Fatma Hussein
-
 ### AI Automation Engineer
 
 I design practical AI automation workflows that connect intelligent tools, business applications, and data sources to reduce repetitive work and improve operational efficiency.
@@ -9,7 +8,6 @@ My work focuses on building reliable automation systems with **n8n**, AI models,
 ## What I Do
 
 - Build AI-powered workflows with n8n
-
 - Connect business tools and APIs into automated processes
 
 - Design lead intake, sales, and outreach automation systems
@@ -27,8 +25,8 @@ My work focuses on building reliable automation systems with **n8n**, AI models,
 | Project | Description |
 | --- | --- |
 | [AI Sales Agent](https://github.com/fatmahussein821/AI-Sales-Agent) | n8n sales outreach workflow that captures structured leads, stores them in Google Sheets, generates personalized HTML emails with Gemini, and routes drafts through human approval before sending with Gmail. |
-| [Appointment Booking Assistant](YOUR_REPOSITORY_URL) | Bilingual Telegram assistant that checks Google Calendar availability, books or reschedules appointments, maintains conversation context, applies business-hour rules, and sends confirmations. |
-| [Gmail AI Agent](YOUR_REPOSITORY_URL) | Gmail triage workflow that classifies messages into customer service, finance and billing, high-priority, or promotional categories, applies labels, and generates concise replies for actionable emails. |
+| [Appointment Booking Assistant](https://github.com/fatmahussein821/appointment-booking-assistant) | Bilingual Telegram assistant that checks Google Calendar availability, books or reschedules appointments, maintains conversation context, applies business-hour rules, and sends confirmations. |
+| [Gmail AI Agent](https://github.com/fatmahussein821/gmail-ai-agent) | Gmail triage workflow that classifies messages into customer service, finance and billing, high-priority, or promotional categories, applies labels, and generates concise replies for actionable emails. |
 | [Image Invoice](https://github.com/fatmahussein821/image-invoice-automation) | Telegram invoice-processing workflow that uses AI vision to extract invoice fields, normalizes the output with JavaScript, and stores structured records in Airtable. |
 | [Invoice Reminder Automation](https://github.com/fatmahussein821/invoice-reminder-automation) | Scheduled workflow that calculates invoice due-date status, identifies unpaid invoices approaching or past their due date, and prepares reminder emails through Gmail. |
 | [Project Managers UAE – Icebreaker Generator](https://github.com/fatmahussein821/project-managers-uae-icebreaker-generator) | Scheduled lead-research workflow that discovers UAE-based project managers, researches company websites with Gemini, generates automation-focused icebreakers, and stores enriched records in Google Sheets. |
@@ -37,21 +35,13 @@ My work focuses on building reliable automation systems with **n8n**, AI models,
 ## Workflow Highlights
 
 - Event-driven and scheduled automation
-
 - AI-powered classification, extraction, and content generation
-
 - Arabic and English language support
-
 - Human approval before sensitive sales communication
-
 - Calendar-based availability validation
-
 - Structured JSON outputs
-
 - Data normalization and validation
-
 - Duplicate detection before database writes
-
 - Integration with Gmail, Telegram, Google Calendar, Google Sheets, Airtable, and Apify
 
 ## Currently Looking For
