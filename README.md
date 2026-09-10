@@ -26,13 +26,13 @@ My work focuses on building reliable automation systems with **n8n**, AI models,
 
 | Project | Description |
 | --- | --- |
-| [AI Sales Agent](YOUR_REPOSITORY_URL) | n8n sales outreach workflow that captures structured leads, stores them in Google Sheets, generates personalized HTML emails with Gemini, and routes drafts through human approval before sending with Gmail. |
+| [AI Sales Agent](https://github.com/fatmahussein821/AI-Sales-Agent) | n8n sales outreach workflow that captures structured leads, stores them in Google Sheets, generates personalized HTML emails with Gemini, and routes drafts through human approval before sending with Gmail. |
 | [Appointment Booking Assistant](YOUR_REPOSITORY_URL) | Bilingual Telegram assistant that checks Google Calendar availability, books or reschedules appointments, maintains conversation context, applies business-hour rules, and sends confirmations. |
 | [Gmail AI Agent](YOUR_REPOSITORY_URL) | Gmail triage workflow that classifies messages into customer service, finance and billing, high-priority, or promotional categories, applies labels, and generates concise replies for actionable emails. |
-| [Image Invoice](YOUR_REPOSITORY_URL) | Telegram invoice-processing workflow that uses AI vision to extract invoice fields, normalizes the output with JavaScript, and stores structured records in Airtable. |
-| [Invoice Reminder Automation](YOUR_REPOSITORY_URL) | Scheduled workflow that calculates invoice due-date status, identifies unpaid invoices approaching or past their due date, and prepares reminder emails through Gmail. |
-| [Project Managers UAE – Icebreaker Generator](YOUR_REPOSITORY_URL) | Scheduled lead-research workflow that discovers UAE-based project managers, researches company websites with Gemini, generates automation-focused icebreakers, and stores enriched records in Google Sheets. |
-| [Cairo Restaurant Data Collector](YOUR_REPOSITORY_URL) | Scheduled workflow that collects Cairo restaurant data, keeps records with phone numbers, normalizes fields, detects duplicates using name-and-phone keys, and appends only new records to Google Sheets. |
+| [Image Invoice](https://github.com/fatmahussein821/image-invoice-automation) | Telegram invoice-processing workflow that uses AI vision to extract invoice fields, normalizes the output with JavaScript, and stores structured records in Airtable. |
+| [Invoice Reminder Automation](https://github.com/fatmahussein821/invoice-reminder-automation) | Scheduled workflow that calculates invoice due-date status, identifies unpaid invoices approaching or past their due date, and prepares reminder emails through Gmail. |
+| [Project Managers UAE – Icebreaker Generator](https://github.com/fatmahussein821/project-managers-uae-icebreaker-generator) | Scheduled lead-research workflow that discovers UAE-based project managers, researches company websites with Gemini, generates automation-focused icebreakers, and stores enriched records in Google Sheets. |
+| [Cairo Restaurant Data Collector](https://github.com/fatmahussein821/cairo-restaurant-data-collector) | Scheduled workflow that collects Cairo restaurant data, keeps records with phone numbers, normalizes fields, detects duplicates using name-and-phone keys, and appends only new records to Google Sheets. |
 
 ## Workflow Highlights
 
