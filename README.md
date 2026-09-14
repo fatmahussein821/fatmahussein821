@@ -24,6 +24,7 @@ My work focuses on building reliable automation systems with **n8n**, AI models,
 
 | Project | Description |
 | --- | --- |
+| [Lead Generation Employee](https://github.com/fatmahussein821/lead-generation-employee) | n8n lead-intake workflow that normalizes Tally submissions, detects duplicates, analyzes qualification signals with AI, calculates lead scores, and routes follow-up actions. |
 | [AI Sales Agent](https://github.com/fatmahussein821/AI-Sales-Agent) | n8n sales outreach workflow that captures structured leads, stores them in Google Sheets, generates personalized HTML emails with Gemini, and routes drafts through human approval before sending with Gmail. |
 | [Appointment Booking Assistant](https://github.com/fatmahussein821/appointment-booking-assistant) | Bilingual Telegram assistant that checks Google Calendar availability, books or reschedules appointments, maintains conversation context, applies business-hour rules, and sends confirmations. |
 | [Gmail AI Agent](https://github.com/fatmahussein821/gmail-ai-agent) | Gmail triage workflow that classifies messages into customer service, finance and billing, high-priority, or promotional categories, applies labels, and generates concise replies for actionable emails. |
