@@ -30,7 +30,7 @@ My work focuses on building reliable automation systems with **n8n**, AI models,
 | [Gmail AI Agent](https://github.com/fatmahussein821/gmail-ai-agent) | Gmail triage workflow that classifies messages into customer service, finance and billing, high-priority, or promotional categories, applies labels, and generates concise replies for actionable emails. |
 | [Image Invoice](https://github.com/fatmahussein821/image-invoice-automation) | Telegram invoice-processing workflow that uses AI vision to extract invoice fields, normalizes the output with JavaScript, and stores structured records in Airtable. |
 | [Invoice Reminder Automation](https://github.com/fatmahussein821/invoice-reminder-automation) | Scheduled workflow that calculates invoice due-date status, identifies unpaid invoices approaching or past their due date, and prepares reminder emails through Gmail. |
-| [Project Managers UAE – Icebreaker Generator](https://github.com/fatmahussein821/project-managers-uae-icebreaker-generator) | Scheduled workflow that discovers and researches prospects in a selected location, analyzes their company websites with Gemini, generates automation-focused icebreakers, and stores enriched records in Google Sheets.|
+| [Project Managers UAE – Icebreaker Generator](https://github.com/fatmahussein821/icebreaker-generator) | Scheduled workflow that discovers and researches prospects in a selected location, analyzes their company websites with Gemini, generates automation-focused icebreakers, and stores enriched records in Google Sheets.|
 
 
 ## Workflow Highlights
