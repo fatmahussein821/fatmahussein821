@@ -31,8 +31,7 @@ My work focuses on building reliable automation systems with **n8n**, AI models,
 | [Image Invoice](https://github.com/fatmahussein821/image-invoice-automation) | Telegram invoice-processing workflow that uses AI vision to extract invoice fields, normalizes the output with JavaScript, and stores structured records in Airtable. |
 | [Invoice Reminder Automation](https://github.com/fatmahussein821/invoice-reminder-automation) | Scheduled workflow that calculates invoice due-date status, identifies unpaid invoices approaching or past their due date, and prepares reminder emails through Gmail. |
 | [Project Managers UAE – Icebreaker Generator](https://github.com/fatmahussein821/project-managers-uae-icebreaker-generator) | Scheduled workflow that discovers and researches prospects in a selected location, analyzes their company websites with Gemini, generates automation-focused icebreakers, and stores enriched records in Google Sheets.
- |
-| [Cairo Restaurant Data Collector](https://github.com/fatmahussein821/cairo-restaurant-data-collector) | Scheduled workflow that collects Cairo restaurant data, keeps records with phone numbers, normalizes fields, detects duplicates using name-and-phone keys, and appends only new records to Google Sheets. |
+ || [Cairo Restaurant Data Collector](https://github.com/fatmahussein821/cairo-restaurant-data-collector) | Scheduled workflow that collects Cairo restaurant data, keeps records with phone numbers, normalizes fields, detects duplicates using name-and-phone keys, and appends only new records to Google Sheets. |
 
 ## Workflow Highlights
 
